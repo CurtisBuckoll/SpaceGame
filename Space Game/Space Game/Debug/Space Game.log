@@ -1,0 +1,17 @@
+﻿  Weapon.cpp
+c:\users\curtis\documents\visual studio 2015\projects\space game\space game\vertex.h(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\visual studio 2015\projects\space game\space game\vertex.h(188): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\visual studio 2015\projects\space game\space game\vertex.h(191): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\visual studio 2015\projects\space game\space game\vertex.h(194): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\visual studio 2015\projects\space game\space game\vertex.h(197): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\visual studio 2015\projects\space game\space game\vertex.h(200): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\visual studio 2015\projects\space game\space game\weapon.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\curtis\documents\visual studio 2015\projects\space game\space game\weapon.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\curtis\documents\visual studio 2015\projects\space game\space game\weapon.cpp(48): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\curtis\documents\visual studio 2015\projects\space game\space game\weapon.cpp(50): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\curtis\documents\visual studio 2015\projects\space game\space game\weapon.cpp(54): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\curtis\documents\visual studio 2015\projects\space game\space game\weapon.cpp(56): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\curtis\documents\visual studio 2015\projects\space game\space game\weapon.cpp(57): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\curtis\documents\visual studio 2015\projects\space game\space game\weapon.cpp(75): warning C4018: '<': signed/unsigned mismatch
+  Space Game.vcxproj -> C:\Users\Curtis\Documents\Visual Studio 2015\Projects\Space Game\Debug\Space Game.exe
+  Space Game.vcxproj -> C:\Users\Curtis\Documents\Visual Studio 2015\Projects\Space Game\Debug\Space Game.pdb (Partial PDB)
