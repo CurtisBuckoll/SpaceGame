@@ -102,8 +102,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>C:\OpenGL\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\OpenGL\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>../openGL/include;$(IncludePath)</IncludePath>
+    <LibraryPath>../openGL/lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

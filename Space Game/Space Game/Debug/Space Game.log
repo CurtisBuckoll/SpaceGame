@@ -1,17 +1,142 @@
-﻿  Weapon.cpp
-c:\users\curtis\documents\visual studio 2015\projects\space game\space game\vertex.h(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\curtis\documents\visual studio 2015\projects\space game\space game\vertex.h(188): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\curtis\documents\visual studio 2015\projects\space game\space game\vertex.h(191): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\curtis\documents\visual studio 2015\projects\space game\space game\vertex.h(194): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\curtis\documents\visual studio 2015\projects\space game\space game\vertex.h(197): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\curtis\documents\visual studio 2015\projects\space game\space game\vertex.h(200): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\curtis\documents\visual studio 2015\projects\space game\space game\weapon.cpp(28): warning C4018: '<': signed/unsigned mismatch
-c:\users\curtis\documents\visual studio 2015\projects\space game\space game\weapon.cpp(32): warning C4018: '<': signed/unsigned mismatch
-c:\users\curtis\documents\visual studio 2015\projects\space game\space game\weapon.cpp(48): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\curtis\documents\visual studio 2015\projects\space game\space game\weapon.cpp(50): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\curtis\documents\visual studio 2015\projects\space game\space game\weapon.cpp(54): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\curtis\documents\visual studio 2015\projects\space game\space game\weapon.cpp(56): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\curtis\documents\visual studio 2015\projects\space game\space game\weapon.cpp(57): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\curtis\documents\visual studio 2015\projects\space game\space game\weapon.cpp(75): warning C4018: '<': signed/unsigned mismatch
-  Space Game.vcxproj -> C:\Users\Curtis\Documents\Visual Studio 2015\Projects\Space Game\Debug\Space Game.exe
-  Space Game.vcxproj -> C:\Users\Curtis\Documents\Visual Studio 2015\Projects\Space Game\Debug\Space Game.pdb (Partial PDB)
+﻿  Window.cpp
+  Weapon.cpp
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(188): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(191): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(194): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(197): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(200): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\weapon.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\curtis\documents\github\spacegame\space game\space game\weapon.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\curtis\documents\github\spacegame\space game\space game\weapon.cpp(48): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\curtis\documents\github\spacegame\space game\space game\weapon.cpp(50): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\curtis\documents\github\spacegame\space game\space game\weapon.cpp(54): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\curtis\documents\github\spacegame\space game\space game\weapon.cpp(56): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\curtis\documents\github\spacegame\space game\space game\weapon.cpp(57): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\curtis\documents\github\spacegame\space game\space game\weapon.cpp(75): warning C4018: '<': signed/unsigned mismatch
+  Texture2D.cpp
+  SpriteMap.cpp
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(188): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(191): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(194): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(197): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(200): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Shot.cpp
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(188): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(191): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(194): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(197): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(200): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\shot.cpp(64): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Shader.cpp
+  Player.cpp
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(188): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(191): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(194): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(197): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(200): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\collision.h(22): warning C4091: 'static ': ignored on left of 'Collision' when no variable is declared
+c:\users\curtis\documents\github\spacegame\space game\space game\player.cpp(32): warning C4305: '=': truncation from 'double' to 'float'
+  OldSource.cpp
+  main.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\curtis\documents\github\spacegame\space game\opengl\include\glfw\glfw3.h(85): note: see previous definition of 'APIENTRY'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(188): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(191): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(194): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(197): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(200): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\collision.h(22): warning C4091: 'static ': ignored on left of 'Collision' when no variable is declared
+c:\users\curtis\documents\github\spacegame\space game\space game\main.cpp(146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\curtis\documents\github\spacegame\space game\space game\main.cpp(146): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\curtis\documents\github\spacegame\space game\space game\main.cpp(187): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\curtis\documents\github\spacegame\space game\space game\main.cpp(220): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\curtis\documents\github\spacegame\space game\space game\main.cpp(223): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  Explosion.cpp
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(188): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(191): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(194): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(197): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(200): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\explosion.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\curtis\documents\github\spacegame\space game\space game\explosion.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  EnemyShip.cpp
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(188): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(191): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(194): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(197): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(200): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\enemyship.cpp(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\curtis\documents\github\spacegame\space game\space game\enemyship.cpp(24): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\curtis\documents\github\spacegame\space game\space game\enemyship.cpp(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\curtis\documents\github\spacegame\space game\space game\enemyship.cpp(48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\curtis\documents\github\spacegame\space game\space game\enemyship.cpp(52): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\curtis\documents\github\spacegame\space game\space game\enemyship.cpp(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\curtis\documents\github\spacegame\space game\space game\enemyship.cpp(91): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\curtis\documents\github\spacegame\space game\space game\enemyship.cpp(92): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\curtis\documents\github\spacegame\space game\space game\enemyship.cpp(98): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\curtis\documents\github\spacegame\space game\space game\enemyship.cpp(99): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\curtis\documents\github\spacegame\space game\space game\enemyship.cpp(128): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Enemy.cpp
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(188): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(191): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(194): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(197): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(200): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\enemy.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\curtis\documents\github\spacegame\space game\space game\enemy.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\curtis\documents\github\spacegame\space game\space game\enemy.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\curtis\documents\github\spacegame\space game\space game\enemy.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\curtis\documents\github\spacegame\space game\space game\enemy.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\curtis\documents\github\spacegame\space game\space game\enemy.cpp(129): warning C4018: '<': signed/unsigned mismatch
+  Collision.cpp
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(188): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(191): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(194): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(197): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\vertex.h(200): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\documents\github\spacegame\space game\space game\collision.h(22): warning C4091: 'static ': ignored on left of 'Collision' when no variable is declared
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+EnemyShip.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+Explosion.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+Player.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+Weapon.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+EnemyShip.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+Explosion.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+Player.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+Weapon.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewAttachShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCompileShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCreateProgram imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCreateShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewDeleteShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramInfoLog imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramiv imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderInfoLog imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderiv imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewLinkProgram imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewShaderSource imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+SpriteMap.obj : warning LNK4049: locally defined symbol ___glewActiveTexture imported
+SpriteMap.obj : warning LNK4049: locally defined symbol ___glewBindBuffer imported
+SpriteMap.obj : warning LNK4049: locally defined symbol ___glewBufferData imported
+SpriteMap.obj : warning LNK4049: locally defined symbol ___glewDeleteBuffers imported
+SpriteMap.obj : warning LNK4049: locally defined symbol ___glewGenBuffers imported
+SpriteMap.obj : warning LNK4049: locally defined symbol ___glewEnableVertexAttribArray imported
+SpriteMap.obj : warning LNK4049: locally defined symbol ___glewVertexAttribPointer imported
+SpriteMap.obj : warning LNK4049: locally defined symbol ___glewBindVertexArray imported
+SpriteMap.obj : warning LNK4049: locally defined symbol ___glewDeleteVertexArrays imported
+SpriteMap.obj : warning LNK4049: locally defined symbol ___glewGenVertexArrays imported
+Texture2D.obj : warning LNK4049: locally defined symbol ___glewGenerateMipmap imported
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Curtis\Documents\GitHub\SpaceGame\Space Game\Debug\vc120.pdb'; linking object as if no debug info
+  Space Game.vcxproj -> C:\Users\Curtis\Documents\GitHub\SpaceGame\Space Game\Debug\Space Game.exe
+  Space Game.vcxproj -> C:\Users\Curtis\Documents\GitHub\SpaceGame\Space Game\Debug\Space Game.pdb (Partial PDB)
